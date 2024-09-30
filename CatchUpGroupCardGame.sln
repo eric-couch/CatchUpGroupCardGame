@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchUpGroupCardGame", "CatchUpGroupCardGame\CatchUpGroupCardGame.csproj", "{9DE09C54-A4C5-4A80-AA6E-1DFBBAD0130A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE09C54-A4C5-4A80-AA6E-1DFBBAD0130A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE09C54-A4C5-4A80-AA6E-1DFBBAD0130A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE09C54-A4C5-4A80-AA6E-1DFBBAD0130A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE09C54-A4C5-4A80-AA6E-1DFBBAD0130A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE52078-44B2-4C86-8FDD-01FA1B118577}
+	EndGlobalSection
+EndGlobal
